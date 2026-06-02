@@ -6,12 +6,12 @@ This project demonstrates a reusable and scalable Infrastructure as Code (IaC) a
 
 ### What You'll Learn
 
-✅ Parent & Child Module Architecture 
-✅ Reusable Terraform Design Patterns
-✅ Map(Object) Variables for Dynamic Resource Creation
-✅ for_each with Modules
-✅ Multi-Environment Deployments (Dev, Test, Prod)
-✅ Azure Infrastructure Automation Best Practices
+- ✅ Parent & Child Module Architecture 
+- ✅ Reusable Terraform Design Patterns
+- ✅ Map(Object) Variables for Dynamic Resource Creation
+- ✅ for_each with Modules
+- ✅ Multi-Environment Deployments (Dev, Test, Prod)
+- ✅ Azure Infrastructure Automation Best Practices
 
 Whether you're a beginner learning Terraform modules or a DevOps engineer looking to build scalable Azure infrastructure, this repository provides a practical real-world implementation that you can use as a reference in your projects.
 
