@@ -36,18 +36,18 @@ With a single configuration, you can provision:
 
 Traditional Terraform deployments often result in:
 
-❌ Repeated code
-❌ Hardcoded values
-❌ Difficult environment management
-❌ Poor scalability
+- ❌ Repeated code
+- ❌ Hardcoded values
+- ❌ Difficult environment management
+- ❌ Poor scalability
 
 This repository solves these challenges by implementing:
 
-✅ Reusable Parent-Child Module Design
-✅ Map(Object) based configurations
-✅ Environment-specific deployments
-✅ Scalable Infrastructure as Code
-✅ Easy maintenance and onboarding
+- ✅ Reusable Parent-Child Module Design
+- ✅ Map(Object) based configurations
+- ✅ Environment-specific deployments
+- ✅ Scalable Infrastructure as Code
+- ✅ Easy maintenance and onboarding
 
 ---
 
