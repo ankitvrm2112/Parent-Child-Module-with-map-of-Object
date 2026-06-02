@@ -7,6 +7,7 @@ This project demonstrates a reusable and scalable Infrastructure as Code (IaC) a
 ### What You'll Learn
 
 ✅ Parent & Child Module Architecture
+
 ✅ Reusable Terraform Design Patterns
 ✅ Map(Object) Variables for Dynamic Resource Creation
 ✅ for_each with Modules
