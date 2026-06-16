@@ -15,14 +15,14 @@ resource_groups = {
 
 storage_accounts = {
   "st1" = {
-    name                     = "stst132425"
+    name                     = "stank138325"
     rg_key                   = "rg1"
     location                 = "centralindia"
     account_tier             = "Standard"
     account_replication_type = "LRS"
   }
   "st2" = {
-    name                     = "stst134435"
+    name                     = "stank133735"
     rg_key                   = "rg2"
     location                 = "southindia"
     account_tier             = "Standard"
