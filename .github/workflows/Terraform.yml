@@ -3,7 +3,7 @@ name: Deploy Azure Infrastructure
 on:
   push:
     branches:
-      - none
+      - main
 
 permissions:
   id-token: write
