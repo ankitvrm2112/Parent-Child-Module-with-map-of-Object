@@ -1,0 +1,8 @@
+name: Avi Pipeline for Infra
+
+trigger:
+- main
+- feature/*
+
+stages:
+- stage: 
